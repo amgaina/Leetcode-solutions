@@ -4,7 +4,7 @@ Welcome to the LeetCode Solutions repository! This repository contains my soluti
 
 ## About LeetCode
 
-LeetCode is a platform for preparing technical coding interviews. It offers a vast collection of problems across multiple domains such as algorithms, data structures, database, shell, and more. Each problem typically comes with a description, example test cases, and a platform for you to write and test your code.
+LeetCode is a platform for preparing technical coding interviews. It offers many problems across multiple domains such as algorithms, data structures, databases, shells, and more. Each problem typically comes with a description, example test cases, and a platform for you to write and test your code.
 
 ## Purpose of This Repository
 
@@ -16,11 +16,6 @@ The purpose of this repository is to showcase my solutions to LeetCode problems.
 
 ## Folder Structure
 
-The solutions are organized into following files with their purpose. They are listed below: 
-## maxArea.py -> 
-You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
-Find two lines that together with the x-axis form a container, such that the container contains the most water.
-Return the maximum amount of water a container can store.
-Notice that you may not slant the container.
+The solutions are organized into the following folders with the Python files and README.md file inside each folder structure. README.md contains the problem description whereas python contains the solution to the problem described in the README.md file.
 
 
